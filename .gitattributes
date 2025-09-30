@@ -1,0 +1,12 @@
+# Exclude HTML & CSS from language stats
+*.html linguist-vendored=true
+*.css  linguist-vendored=true
+
+# Common build/docs folders to ignore
+public/** linguist-vendored=true
+docs/** linguist-vendored=true
+build/** linguist-vendored=true
+dist/** linguist-vendored=true
+
+# Ensure Java is always recognized
+*.java linguist-language=Java
