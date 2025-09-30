@@ -37,7 +37,7 @@
 ## 📫 Connect with Me  
 
 - GitHub: [@Nitharshan369](https://github.com/Nitharshan369)  
-- LinkedIn: *[(Add your link here)](https://linkedin.com/in/nitharshan-krishnamurthi-52ba60311)*  
+- LinkedIn: *[Nitharshan Krishnamurthi](https://linkedin.com/in/nitharshan-krishnamurthi-52ba60311)*  
 - Email: *cknitharshan@gmail.com*  
 
 ---
