@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nitharshan Krishnamurthi  
+# 👋 Hi, I'm Nitharshan.C.K
 
 🚀 Passionate about **problem-solving, Data Structures & Algorithms, and building impactful software projects**.  
 💻 Currently exploring **Competitive Programming, Web Development, and Open Source**.  
