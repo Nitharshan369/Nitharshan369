@@ -1,6 +1,7 @@
 # Exclude HTML & CSS from language stats
-*.html linguist-vendored=true
-*.css  linguist-vendored=true
+*.html linguist-vendored
+*.css linguist-vendored
+
 
 # Common build/docs folders to ignore
 public/** linguist-vendored=true
