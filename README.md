@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Nitharshan Krishnamurthi  
 
-🚀 Passionate about problem-solving, Data Structures & Algorithms, and building useful software projects.  
-💻 Currently exploring **Competitive Programming**, **Web Development**, and **Open Source**.  
+🚀 Passionate about **problem-solving, Data Structures & Algorithms, and building impactful software projects**.  
+💻 Currently exploring **Competitive Programming, Web Development, and Open Source**.  
 
 ---
 
-## 🔧 Tech Stack
+## 🔧 Tech Stack  
 
-- **Languages:** Python, C, JavaScript, HTML, CSS, Java
-- **Core Interests:** Data Structures & Algorithms, Competitive Programming, System Design  
-- **Tools & Platforms:** Git, GitHub, VS Code  
+- **Languages:** Python 🐍 | C | Java | JavaScript | HTML | CSS  
+- **Core Interests:** Data Structures & Algorithms | Competitive Programming | System Design  
+- **Tools & Platforms:** Git | GitHub | VS Code  
 
 ---
 
@@ -29,16 +29,19 @@
 
 ## 🌱 Current Focus  
 
-- Improving **DSA skills** 📘  
-- Preparing for **ICPC & other coding contests** 🏅    
+- Mastering **DSA & Competitive Programming** ⚔️  
+- Preparing for **ICPC & other coding contests** 🏅  
+- Expanding skills in **Web Development** 🌐  
+- Contributing to **Open Source** 🌍  
 
 ---
 
 ## 📫 Connect with Me  
 
-- GitHub: [@Nitharshan369](https://github.com/Nitharshan369)  
-- LinkedIn: *[Nitharshan Krishnamurthi](https://linkedin.com/in/nitharshan-krishnamurthi-52ba60311)*  
-- Email: *cknitharshan@gmail.com*  
+- 🐙 GitHub: [@Nitharshan369](https://github.com/Nitharshan369)  
+- 💼 LinkedIn: [Nitharshan Krishnamurthi](https://linkedin.com/in/nitharshan-krishnamurthi-52ba60311)  
+- 📧 Email: [cknitharshan@gmail.com](mailto:cknitharshan@gmail.com)  
 
 ---
-✨ Always curious to learn & build something impactful!
+
+✨ Always curious to learn, solve, and build something meaningful!
