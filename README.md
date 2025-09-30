@@ -1,16 +1,44 @@
-## Hi there 👋 I am Nitharshan.C.K
+# 👋 Hi, I'm Nitharshan Krishnamurthi  
 
-<!--
-**Nitharshan369/Nitharshan369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about problem-solving, Data Structures & Algorithms, and building useful software projects.  
+💻 Currently exploring **Competitive Programming**, **Web Development**, and **Open Source**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+
+- **Languages:** Python, C, JavaScript, HTML, CSS, Java
+- **Core Interests:** Data Structures & Algorithms, Competitive Programming, System Design  
+- **Tools & Platforms:** Git, GitHub, VS Code  
+
+---
+
+## 📊 GitHub Stats  
+
+![Nitharshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nitharshan369&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitharshan369&layout=compact&theme=radical)  
+
+---
+
+## 🏆 GitHub Trophies  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nitharshan369&theme=radical&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)  
+
+---
+
+## 🌱 Current Focus  
+
+- Improving **DSA skills** 📘  
+- Preparing for **ICPC & other coding contests** 🏅    
+
+---
+
+## 📫 Connect with Me  
+
+- GitHub: [@Nitharshan369](https://github.com/Nitharshan369)  
+- LinkedIn: *[(Add your link here)](https://linkedin.com/in/nitharshan-krishnamurthi-52ba60311)*  
+- Email: *cknitharshan@gmail.com*  
+
+---
+✨ Always curious to learn & build something impactful!
