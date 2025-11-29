@@ -17,8 +17,8 @@
 
 ## 📊 GitHub Stats  
 
-![Nitharshan's GitHub Stats](https://nitharshan-stats.vercel.app/api?username=Nitharshan369&show_icons=true&theme=tokyonight) 
-![Top Languages](https://nitharshan-stats.vercel.app/api/top-langs/?username=Nitharshan369&layout=compact&theme=tokyonight) 
+![GitHub Stats](https://nitharshan-stats.vercel.app/api?username=Nitharshan369s&show_icons=true&theme=github_dark&count_private=true)
+![Top Langs](https://nitharshan-stats.vercel.app/api/top-langs/?username=Nitharshan369s&layout=compact&theme=github_dark&count_private=true)
 
 ---
 
