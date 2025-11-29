@@ -29,8 +29,8 @@
 ---
 
 ## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=Nitharshan369&theme=tokyonight&hide_border=false&mode=daily)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nitharshan369&theme=tokyonight&hide_border=false&mode=daily)
+](https://streak-stats.demolab.com/?user=Nitharshan369&theme=tokyonight&hide_border=false&mode=daily)
 
 ## 🌱 Current Focus  
 
