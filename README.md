@@ -18,7 +18,7 @@
 ## 📊 GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nitharshan369&show_icons=true&theme=radical) 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitharshan369&layout=compact&theme=radical&hide=json,shell,batchfile)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitharshan369&layout=compact&theme=radical) 
 
 ---
 
