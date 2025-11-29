@@ -17,8 +17,8 @@
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nitharshan369&show_icons=true&theme=radical) 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitharshan369&layout=compact&theme=radical) 
+![Nitharshan's GitHub Stats](https://nitharshan-stats.vercel.app/api?username=Nitharshan369&show_icons=true&theme=tokyonight) 
+![Top Languages](https://nitharshan-stats.vercel.app/api/top-langs/?username=Nitharshan369&layout=compact&theme=tokyonight) 
 
 ---
 
@@ -27,6 +27,10 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=Nitharshan369&theme=radical&row=1&column=6)  
 
 ---
+
+## 🔥 Streak Stats
+![GitHub Streak](https://nitharshan-stats.vercel.app/api?username=Nitharshan369&theme=tokyonight&hide_border=false&mode=daily&count_private=true)
+
 
 ## 🌱 Current Focus  
 
