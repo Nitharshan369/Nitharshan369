@@ -28,7 +28,8 @@
 
 ## 🏆 GitHub Trophies  
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Nitharshan369&theme=radical&row=1&column=6)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Nitharshan369&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5)
+  
 
 ---
 
