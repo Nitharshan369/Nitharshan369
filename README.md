@@ -5,15 +5,47 @@
 
 ---
 
-## 🛠️ Tech Stack  
+<p align="centre">
+  ## 🛠️ Technical Stacks
 
-[![Java](https://skillicons.dev/icons?i=java)]()
-[![Python](https://skillicons.dev/icons?i=python)]()
-[![JavaScript](https://skillicons.dev/icons?i=javascript)]()
-[![HTML](https://skillicons.dev/icons?i=html)]()
-[![CSS](https://skillicons.dev/icons?i=css)]()
+  # Programming Languages
 
+  [![C](https://skillicons.dev/icons?i=c)]()
+  [![C++](https://skillicons.dev/icons?i=cpp)]()
+  [![Java](https://skillicons.dev/icons?i=java)]()
+  [![JavaScript](https://skillicons.dev/icons?i=javascript)]()
+  [![Python](https://skillicons.dev/icons?i=python)]()
+  [![HTML](https://skillicons.dev/icons?i=html)]()
+  [![CSS](https://skillicons.dev/icons?i=css)]()
+  [![MATLAB](https://skillicons.dev/icons?i=matlab)]()
+  [![Haskell](https://skillicons.dev/icons?i=haskell)]()
 
+  # Frameworks and Libraries
+
+  [![TailwindCSS](https://skillicons.dev/icons?i=tailwind)]()
+  [![PyTorch](https://skillicons.dev/icons?i=pytorch)]()
+  [![ElectronJS](https://skillicons.dev/icons?i=electron)]()
+
+  # Tools & Technologies
+
+  [![Git](https://skillicons.dev/icons?i=git)]()
+  [![GitHub](https://skillicons.dev/icons?i=github)]()
+  [![AWS](https://skillicons.dev/icons?i=aws)]()
+  [![Linux](https://skillicons.dev/icons?i=linux)]()
+  [![Arduino](https://skillicons.dev/icons?i=arduino)]()
+  [![VS Code](https://skillicons.dev/icons?i=vscode)]()
+  [![Eclipse](https://skillicons.dev/icons?i=eclipse)]()
+  [![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)]()
+
+  # Databases
+
+  [![MySQL](https://skillicons.dev/icons?i=mysql)]()
+  [![SQLite](https://skillicons.dev/icons?i=sqlite)]()
+  [![Neo4j](https://skillicons.dev/icons?i=neo4j)]()
+
+</p>
+
+---
 
 ## 📊 GitHub Stats  
 
