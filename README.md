@@ -7,22 +7,22 @@
 
 <div align="center">
 
-<!-- Programming Languages -->
+<h2>✨⚡ <strong style="color:#f7df1e">Programming Languages</strong> ⚡✨</h2>
 <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,html,css,matlab,haskell" />
 
 <br><br>
 
-<!-- Frameworks -->
+<h2>🌈🔥 <strong style="color:#61dafb">Frameworks</strong> 🔥🌈</h2>
 <img src="https://skillicons.dev/icons?i=tailwind,pytorch,electron" />
 
 <br><br>
 
-<!-- Tools & Technologies -->
+<h2>💠🌟 <strong style="color:#4caf50">Tools & Technologies</strong> 🌟💠</h2>
 <img src="https://skillicons.dev/icons?i=git,github,aws,linux,arduino,vscode,eclipse,idea" />
 
 <br><br>
 
-<!-- Databases -->
+<h2>💎✨ <strong style="color:#ff6f61">Databases</strong> ✨💎</h2>
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,neo4j" />
 
 </div>
