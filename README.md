@@ -22,8 +22,9 @@
 
 <br><br>
 
-<h2>🗄️ <strong style="color:#ff6f61">Databases</strong> </h2>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,neo4j" />
+<h2>💎✨ <strong style="color:#ff6f61">Databases</strong> ✨💎</h2>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" height="60"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" height="60"/>
 
 </div>
 
