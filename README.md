@@ -5,45 +5,43 @@
 
 ---
 
-<p align="centre">
-  ## 🛠️ Technical Stacks
+## 🛠️ Technical Stacks
 
-  # Programming Languages
+### 👨‍💻 Programming Languages
+---
+<img src="https://skillicons.dev/icons?i=c" alt="C" height="48" style="margin-right:10px"/>
+<img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="48" style="margin-right:10px"/>
+<img src="https://skillicons.dev/icons?i=java" alt="Java" height="48" style="margin-right:10px"/>
+<img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="48" style="margin-right:10px"/>
+<img src="https://skillicons.dev/icons?i=python" alt="Python" height="48" style="margin-right:10px"/>
+<img src="https://skillicons.dev/icons?i=html" alt="HTML" height="48" style="margin-right:10px"/>
+<img src="https://skillicons.dev/icons?i=css" alt="CSS" height="48" style="margin-right:10px"/>
+<img src="https://skillicons.dev/icons?i=matlab" alt="MATLAB" height="48" style="margin-right:10px"/>
+<img src="https://skillicons.dev/icons?i=haskell" alt="Haskell" height="48" style="margin-right:10px"/>
 
-  [![C](https://skillicons.dev/icons?i=c)]()
-  [![C++](https://skillicons.dev/icons?i=cpp)]()
-  [![Java](https://skillicons.dev/icons?i=java)]()
-  [![JavaScript](https://skillicons.dev/icons?i=javascript)]()
-  [![Python](https://skillicons.dev/icons?i=python)]()
-  [![HTML](https://skillicons.dev/icons?i=html)]()
-  [![CSS](https://skillicons.dev/icons?i=css)]()
-  [![MATLAB](https://skillicons.dev/icons?i=matlab)]()
-  [![Haskell](https://skillicons.dev/icons?i=haskell)]()
+### 🧩 Frameworks & Libraries
+---
+<img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" height="48" style="margin-right:10px"/>
+<img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" height="48" style="margin-right:10px"/>
+<img src="https://skillicons.dev/icons?i=electron" alt="Electron" height="48" style="margin-right:10px"/>
 
-  # Frameworks and Libraries
+### 🛠 Tools & Technologies
+---
+<img src="https://skillicons.dev/icons?i=git" alt="Git" height="48" style="margin-right:10px"/>
+<img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="48" style="margin-right:10px"/>
+<img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="48" style="margin-right:10px"/>
+<img src="https://skillicons.dev/icons?i=linux" alt="Linux" height="48" style="margin-right:10px"/>
+<img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" height="48" style="margin-right:10px"/>
+<img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="48" style="margin-right:10px"/>
+<img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" height="48" style="margin-right:10px"/>
+<img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ" height="48" style="margin-right:10px"/>
 
-  [![TailwindCSS](https://skillicons.dev/icons?i=tailwind)]()
-  [![PyTorch](https://skillicons.dev/icons?i=pytorch)]()
-  [![ElectronJS](https://skillicons.dev/icons?i=electron)]()
+### 🗄 Databases
+---
+<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="48" style="margin-right:10px"/>
+<img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" height="48" style="margin-right:10px"/>
+<img src="https://skillicons.dev/icons?i=neo4j" alt="Neo4j" height="48" style="margin-right:10px"/>
 
-  # Tools & Technologies
-
-  [![Git](https://skillicons.dev/icons?i=git)]()
-  [![GitHub](https://skillicons.dev/icons?i=github)]()
-  [![AWS](https://skillicons.dev/icons?i=aws)]()
-  [![Linux](https://skillicons.dev/icons?i=linux)]()
-  [![Arduino](https://skillicons.dev/icons?i=arduino)]()
-  [![VS Code](https://skillicons.dev/icons?i=vscode)]()
-  [![Eclipse](https://skillicons.dev/icons?i=eclipse)]()
-  [![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)]()
-
-  # Databases
-
-  [![MySQL](https://skillicons.dev/icons?i=mysql)]()
-  [![SQLite](https://skillicons.dev/icons?i=sqlite)]()
-  [![Neo4j](https://skillicons.dev/icons?i=neo4j)]()
-
-</p>
 
 ---
 
