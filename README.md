@@ -5,42 +5,27 @@
 
 ---
 
-## 🛠️ Technical Stacks
+<div align="center">
 
-### 👨‍💻 Programming Languages
----
-<img src="https://skillicons.dev/icons?i=c" alt="C" height="48" style="margin-right:10px"/>
-<img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="48" style="margin-right:10px"/>
-<img src="https://skillicons.dev/icons?i=java" alt="Java" height="48" style="margin-right:10px"/>
-<img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="48" style="margin-right:10px"/>
-<img src="https://skillicons.dev/icons?i=python" alt="Python" height="48" style="margin-right:10px"/>
-<img src="https://skillicons.dev/icons?i=html" alt="HTML" height="48" style="margin-right:10px"/>
-<img src="https://skillicons.dev/icons?i=css" alt="CSS" height="48" style="margin-right:10px"/>
-<img src="https://skillicons.dev/icons?i=matlab" alt="MATLAB" height="48" style="margin-right:10px"/>
-<img src="https://skillicons.dev/icons?i=haskell" alt="Haskell" height="48" style="margin-right:10px"/>
+<!-- Programming Languages -->
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,html,css,matlab,haskell" />
 
-### 🧩 Frameworks & Libraries
----
-<img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" height="48" style="margin-right:10px"/>
-<img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" height="48" style="margin-right:10px"/>
-<img src="https://skillicons.dev/icons?i=electron" alt="Electron" height="48" style="margin-right:10px"/>
+<br><br>
 
-### 🛠 Tools & Technologies
----
-<img src="https://skillicons.dev/icons?i=git" alt="Git" height="48" style="margin-right:10px"/>
-<img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="48" style="margin-right:10px"/>
-<img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="48" style="margin-right:10px"/>
-<img src="https://skillicons.dev/icons?i=linux" alt="Linux" height="48" style="margin-right:10px"/>
-<img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" height="48" style="margin-right:10px"/>
-<img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="48" style="margin-right:10px"/>
-<img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" height="48" style="margin-right:10px"/>
-<img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ" height="48" style="margin-right:10px"/>
+<!-- Frameworks -->
+<img src="https://skillicons.dev/icons?i=tailwind,pytorch,electron" />
 
-### 🗄 Databases
----
-<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="48" style="margin-right:10px"/>
-<img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" height="48" style="margin-right:10px"/>
-<img src="https://skillicons.dev/icons?i=neo4j" alt="Neo4j" height="48" style="margin-right:10px"/>
+<br><br>
+
+<!-- Tools & Technologies -->
+<img src="https://skillicons.dev/icons?i=git,github,aws,linux,arduino,vscode,eclipse,idea" />
+
+<br><br>
+
+<!-- Databases -->
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,neo4j" />
+
+</div>
 
 
 ---
