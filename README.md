@@ -17,8 +17,9 @@
 
 <br><br>
 
-<h2>🛠️ <strong style="color:#4caf50">Tools & Technologies</strong> </h2>
-<img src="https://skillicons.dev/icons?i=git,github,aws,linux,arduino,vscode,eclipse,idea,wireshark,packettracer,docker" />
+<img src="https://skillicons.dev/icons?i=git,github,aws,linux,arduino,vscode,eclipse,idea,docker" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Wireshark_Logo.png" height="48" />
+<img src="https://i.imgur.com/9Xn1YV2.png" height="48" />
 
 <br><br>
 
