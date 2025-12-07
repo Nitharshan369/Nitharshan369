@@ -13,12 +13,12 @@
 <br><br>
 
 <h2>🧩 <strong style="color:#61dafb">Frameworks</strong> </h2>
-<img src="https://skillicons.dev/icons?i=tailwind,pytorch,electron" />
+<img src="https://skillicons.dev/icons?i=tailwind,pytorch,electron,nodejs" />
 
 <br><br>
 
 <h2>🛠️ <strong style="color:#4caf50">Tools & Technologies</strong> </h2>
-<img src="https://skillicons.dev/icons?i=git,github,aws,linux,arduino,vscode,eclipse,idea" />
+<img src="https://skillicons.dev/icons?i=git,github,aws,linux,arduino,vscode,eclipse,idea,wireshark,packettracer,docker" />
 
 <br><br>
 
