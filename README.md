@@ -17,6 +17,7 @@
 
 <br><br>
 
+<h2>🛠️ <strong style="color:#4caf50">Tools & Technologies</strong> </h2>
 <img src="https://skillicons.dev/icons?i=git,github,aws,linux,arduino,vscode,eclipse,idea,docker" />
 
 <br><br>
