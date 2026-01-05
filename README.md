@@ -1,73 +1,101 @@
-# 👋 Hi, I'm Nitharshan.C.K
+# Hi, I’m Nitharshan
 
-🚀 Passionate about **problem-solving, Data Structures & Algorithms, and building impactful software projects**.  
-💻 Currently exploring **Competitive Programming, Web Development, and Open Source**.  
+I’m a Computer Science student who focuses on **fundamentals, system behavior,
+and clear reasoning**.
 
----
-
-<div align="center">
-
-<h2>🧑‍💻 <strong style="color:#f7df1e">Programming Languages</strong> </h2>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,html,css,matlab,haskell" />
-
-<br><br>
-
-<h2>🧩 <strong style="color:#61dafb">Frameworks</strong> </h2>
-<img src="https://skillicons.dev/icons?i=tailwind,pytorch,electron,nodejs" />
-
-<br><br>
-
-<h2>🛠️ <strong style="color:#4caf50">Tools & Technologies</strong> </h2>
-<img src="https://skillicons.dev/icons?i=git,github,aws,linux,arduino,vscode,eclipse,idea,docker" />
-
-<br><br>
-
-<h2>🗄️ <strong style="color:#ff6f61">Databases</strong> </h2>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" height="60"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" height="60"/>
-
-</div>
-
+This GitHub is not a showcase of finished products. It’s a record of how I learn:
+by building, breaking, debugging, and refining until both the code and the
+explanation make sense.
 
 ---
 
-## 📊 GitHub Stats  
+## What This GitHub Represents
 
-![GitHub Stats](https://nitharshan-stats.vercel.app/api?username=Nitharshan369&show_icons=true&theme=github_dark&count_private=true)
+This space documents:
+- Learning through **implementation and iteration**
+- Moving from *“it works”* to *“I understand why it works”*
+- Revisiting solutions when logic or assumptions feel weak
+- Using code as a way to reason about systems, not just produce output
 
----
-
-## 🧠 Top Languages
-![Top Langs](https://nitharshan-stats.vercel.app/api/top-langs/?username=Nitharshan369&layout=compact&theme=github_dark&count_private=true)
-
----
-
-## 🏆 GitHub Trophies  
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Nitharshan369&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5)
-  
+Most repositories here evolved through questioning, failed attempts, and
+incremental improvement.
 
 ---
 
-## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=Nitharshan369&theme=tokyonight&hide_border=false&mode=daily)
+## What I Work Close To
 
+I spend most of my time thinking about how programs actually behave at runtime:
+- How processes are created, scheduled, and terminated
+- How user-level code interacts with system-level abstractions
+- How applications communicate reliably over a network
+- How design choices affect performance, correctness, and failure modes
 
-## 🌱 Current Focus  
-
-- Mastering **DSA & Competitive Programming** ⚔️  
-- Preparing for **ICPC & other coding contests** 🏅  
-- Expanding skills in **Web Development** 🌐  
-- Contributing to **Open Source** 🌍  
-
----
-
-## 📫 Connect with Me  
-
-- 🐙 GitHub: [@Nitharshan369](https://github.com/Nitharshan369)  
-- 💼 LinkedIn: [Nitharshan Krishnamurthi](https://linkedin.com/in/nitharshan-krishnamurthi-52ba60311)  
-- 📧 Email: [cknitharshan@gmail.com](mailto:cknitharshan@gmail.com)  
+Rather than treating these as isolated topics, I try to understand how they
+connect and influence each other in real systems.
 
 ---
 
-✨ Always curious to learn, solve, and build something meaningful!
+## How I Approach Problems
+
+My workflow usually looks like this:
+1. Understand the problem and constraints clearly
+2. Build a minimal correct solution
+3. Test edge cases and break assumptions
+4. Fix logic, not symptoms
+5. Refine until behavior and explanation align
+
+If I can’t explain a solution cleanly, I don’t consider it finished.
+
+---
+
+## Algorithms, Reasoning, and Models
+
+- Recursive problem solving with clear base and recursive cases
+- Greedy strategies with correctness reasoning
+- Graph-based representations and traversal logic
+- Conceptual understanding of representation learning and attention mechanisms
+
+The focus is always on **why an approach works**, not just how to implement it.
+
+---
+
+## Tools I Use (When They Make Sense)
+
+I use tools to **solve problems clearly**, not to inflate a stack.
+
+**Languages**
+- C
+- Java
+- Python
+- Haskell
+- Bash / Shell scripting
+
+**Environment & Tools**
+- Linux (command-line driven workflow)
+- Git & GitHub
+- MATLAB (mathematical and statistical computation)
+
+---
+
+## What You’ll Find in These Repositories
+
+- Code that prioritizes **clarity and correctness**
+- Notes written to replace memorization with understanding
+- Projects that show learning progression, not just final outcomes
+- Clear separation between **concept**, **implementation**, and **results**
+
+---
+
+## For Recruiters and Reviewers
+
+If you’re looking for someone who:
+- Is comfortable reasoning about **program behavior and systems**
+- Learns independently and improves through iteration
+- Writes careful, explainable code
+- Values fundamentals over shortcuts
+
+this GitHub should give you a reliable signal.
+
+---
+
+*This repository reflects how I think and learn, not just the tools I use.*
